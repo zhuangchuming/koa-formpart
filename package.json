@@ -1,0 +1,22 @@
+{
+  "name": "koa-formpart",
+  "version": "1.0.0",
+  "description": "> 可在任意位置,以同步逻辑解析包含multipart/form-data的请求到指定目录，并将文件解析对象拷贝到ctx.request.body中。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangchuming/koa-multipart.git"
+  },
+  "author": "zhuangchuming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuangchuming/koa-multipart/issues"
+  },
+  "homepage": "https://github.com/zhuangchuming/koa-multipart#readme",
+  "keywords": [
+    "co-formpart"
+  ]
+}
